@@ -5,6 +5,8 @@ links:
     target: "xprofile"
   "~/.Xresources":
     target: "Xresources"
+  "~/.icons/default/index.theme":
+    target: "cursor/index.theme"
   "~/.gtkrc-2.0":
     target: "gtkrc-2.0"
   "~/.config/gtk-3.0/settings.ini":
