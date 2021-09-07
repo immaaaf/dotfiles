@@ -8,9 +8,11 @@ links:
   "~/.icons/default/index.theme":
     target: "cursor/index.theme"
   "~/.gtkrc-2.0":
-    target: "gtkrc-2.0"
+    target: "gtk/gtkrc-2.0"
   "~/.config/gtk-3.0/settings.ini":
-    target: "gtk-3.0/settings.ini"
+    target: "gtk/settings.ini"
+  "~/.config/gtk-4.0/settings.ini":
+    target: "gtk/settings.ini"
   "~/.fonts.conf":
     target: "fonts.conf"
 
