@@ -10,6 +10,8 @@ if [ -d "$HOME/.cargo/bin" ] ; then
     PATH="$HOME/.cargo/bin:$PATH"
 fi
 
+# GO
+export GOPATH="$HOME/.go"
 # Proxy
 export NO_PROXY="localhost,127.0.0.1,localaddress,.localdomain.com,mx"
 export HTTP_PROXY="http://localhost:7890"
